@@ -1,0 +1,39 @@
+Cтек:
+
+Java 8 - 4 года
+Java 11 - 3 года
+Java 17,21 - 1 год
+
+SQL - 8 лет
+
+postgresql - 3 года
+
+Apache kafka - 1 год
+
+Sping framework\spring boot - 3 года
+
+Gradle - 3 года
+Maven - 3 года
+
+Git - 10 лет
+Linux - 10 лет
+
+Cucumber\Gherkin - 1 год
+
+docker, docker compose - 2 года
+
+Hibernate - 1 год
+JMeter - 2 года
+RabbitMQ - 1 год
+JNI - 1 год
+Playframework - 1 год
+Java EE - 2 года
+JavaFX - 2 года
+camunda - 3 года
+
+Kubernates, OpenShift, Helm, IntellijIdea, Eclipse, GitLab, 
+Liquibase, FlywayDb, Jira, Confluence, TeamCity, JUnit, ELK, Graphana, Nexus
+IBM WebSphere, IBM DB2, WebSphere MQ, testcontainers, mockito, wiremock, openApi, JPA, Http\Rest, gRPC, GraphQL, 
+
+
+
